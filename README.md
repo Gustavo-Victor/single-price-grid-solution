@@ -21,7 +21,7 @@ Front-End Mentor | Single price grid solution
 
 This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## ⚙️ The challenge
+## ⚙️The challenge
 
 Users should be able to:
 
@@ -37,7 +37,7 @@ Users should be able to:
 
 ## ⚓ Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://gustavo-victor.github.io/single-price-grid-solution/)
 
 
 ## 🛠 Built with
@@ -66,7 +66,6 @@ During the creation of this project, I was able to recap some knowledge about CS
 - Frontend Mentor - [@Gustavo-Victor](https://www.frontendmentor.io/profile/Gustavo-Victor)
 - CodePen - [@gustavo_victor](https://codepen.io/gustavo_victor)
 - Linkedin - [@gustavo-victor](https://www.linkedin.com/in/gustavo-victor-575b93206/) 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
 ## 📝 License
 
